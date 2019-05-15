@@ -1,2 +1,2 @@
-# paperbot-theme
-Ryuzine theme with an Android Material Design feel.
+# paperbot
+Ryuzine theme with an Android Material Design look
